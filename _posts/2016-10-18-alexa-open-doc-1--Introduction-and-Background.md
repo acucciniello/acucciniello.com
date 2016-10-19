@@ -7,17 +7,17 @@ date:   2016-10-18 14:38:20
 ## Introduction 
 
 
-For the past year and a half, I have been playing around with Node.js and created a few side projects to increae my knowledge and skills.  Going from nothing to where I am now was a struggle but is well worth it to look back and see all the hurdles I have overcome to get to the point I am at.  For all those starting to learn, learning by doing is the best way to get the information engrained in you.  It is the hardest, but it forces you to learn and because of the expereinces you have assoicated with that learning you tend to remeber what you learned better.  Enough about learning and lets get to the topic of this post.
+For the past year and a half, I have been playing around with Node.js and created a few side projects to increase my knowledge and skills.  Going from nothing to where I am now was a struggle but is well worth it to look back and see all the hurdles I have overcome to get to the point I am at.  For all those starting to learn, learning by doing is the best way to get the information engrained in you.  It is the hardest, but it forces you to learn and because of the experiences you have associated with that learning you tend to remember what you learned better.  Enough about learning and let's get to the topic of this post.
 
 
 ## Inspiration
 
-Have you ever had a great idea come to you when you were doing a monotonous task like washing dishes or showering? Have you ever wanted to write that idea down and this way you can make millions of dollars off that idea but your hands were tied in the that monotonous task? Thats where alexa-open-doc comes in.  
+Have you ever had a great idea come to you when you were doing a monotonous task like washing dishes or showering? Have you ever wanted to write that idea down and this way you can make millions of dollars off that idea but your hands were tied in the that monotonous task? That is where alexa-open-doc comes in.  
 
 
 ## Progress Thus Far
 
-For my first functional task, I wanted to be able to access Google Drive and have Alexa list my files back out at me.  This presented itself with a few challanges:
+For my first functional task, I wanted to be able to access Google Drive and have Alexa list my files back out at me.  This presented itself with a few challenges:
 
 	1. I did not know anything about building an alexa skill
 
@@ -43,17 +43,17 @@ After building this and getting some Alexa skill basics under my belt, I felt it
 
 ### Google Drive API Basics
 
-With confidence running high after completing the basic Alexa skill, trying to list my google drive files was a little less confusing given this extremely easy to follow to [quickstart tutorial][qucikstartTurorial]. This basic tutorial gives you an undestanding on how to create a client_secrets.json file used to hold the credentials for your application in order to link your account with Google Drive.  Once completed this ypu should be able to run the program, that generates an authorization code, which you copy and paste into your terminal, then it takes the code and generates an access token and a refresh token to access the API.  Once you have access you are able to do list the files you have in your account to the console.
+With confidence running high after completing the basic Alexa skill, trying to list my google drive files was a little less confusing given this extremely easy to follow to [quickstart tutorial][qucikstartTurorial]. This basic tutorial gives you an understanding on how to create a client_secrets.json file used to hold the credentials for your application in order to link your account with Google Drive.  Once completed this you should be able to run the program, that generates an authorization code, which you copy and paste into your terminal, then it takes the code and generates an access token and a refresh token to access the API.  Once you have access you are able to do list the files you have in your account to the console.
 
-Now that I had gotten the individual pieces done, the next step was to combine them and get the fiels read out from Alexa.
+Now that I had gotten the individual pieces done, the next step was to combine them and get the files read out from Alexa.
 
 ### Amazon Alexa + Google Drive
 
 After completing the two, I figured it makes sense to just combine the two, by having my exports.handler call a function that calls my Google Drive code and then passes back the list of files and stores it in a variable to then send out the response with response.tell(variable) (where variable is the variable that holds the file names).  But just as expected, it was not right way to do it.  That is where account linking with Alexa skills come into play.
 
-After doing some research this [link][accountLinking] became my greatest resource to solve any account linking issues I had. The first struggle was learning what OAuth 2.0 authentication framework was.  This allows third-party applications to gain access to an HTTP service(in this case allow Alexa to have access to Google Drive).  Now there are two forms of authentication: Implicit Grant and Authroization Code Grant.  The main difference between the two forms are how the access token is received from your system.  
+After doing some research this [link][accountLinking] became my greatest resource to solve any account linking issues I had. The first struggle was learning what OAuth 2.0 authentication framework was.  This allows third-party applications to gain access to an HTTP service(in this case allow Alexa to have access to Google Drive).  Now there are two forms of authentication: Implicit Grant and Authorization Code Grant.  The main difference between the two forms are how the access token is received from your system.  
 
-Implicit Grant allows you to get an access token as soon as you ask for one, but the token expires after an hour, and the only way around this is to relink the skill in your Alexa companion application.  This is also less secure than using the second type: Authorizatiion Code Grant.  This type asks Google for an access code, then takes that code and exchanges it for an access token and an opitional refresh token.  The benefit of this is once the access token expires, Alexa will use the refresh token it recieved to automatically get a new access token so the skill be used indefinitely.  Here are a couple of diagrams explaining how the flow works in both types of authorization.
+Implicit Grant allows you to get an access token as soon as you ask for one, but the token expires after an hour, and the only way around this is to relink the skill in your Alexa companion application.  This is also less secure than using the second type: Authorization Code Grant.  This type asks Google for an access code, then takes that code and exchanges it for an access token and an optional refresh token.  The benefit of this is once the access token expires, Alexa will use the refresh token it received to automatically get a new access token so the skill be used indefinitely.  Here are a couple of diagrams explaining how the flow works in both types of authorization.
 
 ![Implicit Grant](/assets/alexa-open-doc/1/Implicit_grant.png)
 
