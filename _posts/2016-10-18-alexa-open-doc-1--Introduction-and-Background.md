@@ -89,7 +89,6 @@ session.user.accessToken
 
  Pass that through to where Google authenticates it and then you should get your list of files back.  Check out this [link][twitterLinkToVideo] which is a video of the whole thing working!
 
-<a target="_blank" href="https://www.amazon.com/gp/product/B000BBF4KO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BBF4KO&linkCode=as2&tag=acucciniello-20&linkId=f470937c8b09a47f34bba9c7ac651701">Andis Professional Styliner II Personal Trimmer, Black (26700)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=acucciniello-20&l=am2&o=1&a=B000BBF4KO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 [alexaBigNerdRanchTutorial]: https://github.com/bignerdranch/developing-alexa-skills-solutions/blob/master/coursebook/haIntro_Chapter.pdf
