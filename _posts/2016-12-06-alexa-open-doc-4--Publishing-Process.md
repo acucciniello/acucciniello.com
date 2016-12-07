@@ -126,7 +126,10 @@ Implementing a Stop Intent and Cancel intent is the same as before for the Help 
 
 ## Conclusion
 
-After resubmitting my skill on the sixth time, Edit Docs was finally approved and posted on the store.  If you would like to check out videos of the skill functioning look at my project [page][videosPage].  If you want to checkout the actual code to help you build your very own Amazon Echo skill go to my [GitHub][alexaOpenDoc].   I hope you enjoyed reading about my journey while creating this skill.  Check back later for more posts about my future projects!
+After resubmitting my skill on the sixth time, Edit Docs was finally approved and posted on the store.  If you would like to check out videos of the skill functioning look at my project [page][videosPage].  If you want to checkout the actual code to help you build your very own Amazon Echo skill go to my [GitHub][alexaOpenDoc]. If you are interested in downloading the skill you can find the directions to do that in the README.md of the [project][alexaOpenDoc].
+
+
+I hope you enjoyed reading about my journey while creating this skill.  Check back later for more posts about my future projects!
 
 [videosPage]: https://acucciniello.github.io/alexa-open-doc/
 [alexaOpenDoc]: https://github.com/acucciniello/alexa-open-doc
