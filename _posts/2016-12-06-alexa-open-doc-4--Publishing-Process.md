@@ -7,7 +7,7 @@ date:   2016-12-06 14:38:20
 ## Introduction 
 
 
-If you have been following along with my previous posts you know that I finished the core functionality of the skill I just created: *Edit Docs*.  It is a Amazon Echo skill that allows users to edit text in a Google Drive file, and create different types of files using your voice.  When I finished the functionality a couple of weeks ago I was really excited to see my idea come to fruition so I submitted my skill in Amazon Developer Portal so others could use it.  Unfortunately it was not that easy and there were a few more things that Amazon wanted me to change before allowing the public to use it.  I am writing this post hoping that others trying to publish a skill can save time and have their skill published sooner.  The process took two weeks in total, with Amazon failing my certification five separate times.  Let's start with the first submission.
+If you have been following along with my previous posts you know that I finished the core functionality of the skill I just created: *Edit Docs*.  It is a Amazon Echo skill that allows users to edit text in a Google Drive file, and create different types of files using your voice.  When I finished the functionality a couple of weeks ago I was really excited to see my idea come to fruition so I submitted my skill in Amazon Developer Portal so others could use it.  Unfortunately it was not that easy and there were a few more things that Amazon wanted me to change before allowing the public to use it.  I am writing this post hoping that others trying to publish a skill can save time and have their skill published sooner.  The process took two weeks in total, with Amazon failing my certification four separate times.  Let's start with the first submission.
 
 
 ## Submission #1
@@ -44,31 +44,10 @@ This makes it easy for the user to open the app and right away be sent to the li
 
 These were not reproducible so I resubmitted the skill, and Amazon came back with a couple of more complaints.
 
+
 ## Submission #2
 
-This time around I was pleased to know that Amazon only had one issue with my skill.  
-
-#### Issues with Output
-
-This time, the Amazon team explained to me that everytime they tried invoking the skill with *"Alexa, open edit docs"* Alexa consistently returned: *"There was a problem with the requested skill's response"*.  
-I was thinking about how this can be possible because I had no problems running my skill.  But when I went back into testing, I realized that I had this in my code:
-
-{% highlight ruby %}
-return response.tell(output)
-{% endhighlight %}
-
-What was wrong with this was the skill was returning from the function before actually sending the response to alexa to say.  I fixed this by simply doing:
-
-{% highlight ruby %}
-response.tell(output)
-return
-{% endhighlight %}
-
-**Takeaway: Allow return statements to be on their own lines when trying to elicit a response from Alexa.**
-
-## Submission #3
-
-Unfortunately, the third time around Amazon came back to me saying that there were three different areas they had problems with.
+Unfortunately, the second time around Amazon came back to me saying that there were three different areas they had problems with.
 
 #### Account Linking Screen
 
@@ -82,7 +61,7 @@ The next two problems Amazon had with the skill, was that when trying to invoke 
 
 **Takeaway: Make sure to handle all outcomes of your code, otherwise it can cause Alexa to output an error message.**
 
-## Submission #4
+## Submission #3
 
 At this point, I assumed Amazon had random issue generator that would automatically email me with more issues.  Luckily, at this point there was only one thing wrong this time.  
 
@@ -103,7 +82,7 @@ response.tell(output)
 
 **Takeaway: Allow the Launch Intent to be almost like a welcome menu for the user to use the skill.**
 
-## Submission #5
+## Submission #4
 
 Once again Amazon used their random issue generator on me, and came back with two brand new problems.  
 
@@ -126,7 +105,7 @@ Implementing a Stop Intent and Cancel intent is the same as before for the Help 
 
 ## Conclusion
 
-After resubmitting my skill on the sixth time, Edit Docs was finally approved and posted on the store.  If you would like to check out videos of the skill functioning look at my project [page][videosPage].  If you want to checkout the actual code to help you build your very own Amazon Echo skill go to my [GitHub][alexaOpenDoc]. If you are interested in downloading the skill you can find the directions to do that in the README.md of the [project][alexaOpenDoc].
+After resubmitting my skill on the fifth time, Edit Docs was finally approved and posted on the store.  If you would like to check out videos of the skill functioning look at my project [page][videosPage].  If you want to checkout the actual code to help you build your very own Amazon Echo skill go to my [GitHub][alexaOpenDoc]. If you are interested in downloading the skill you can find the directions to do that in the README.md of the [project][alexaOpenDoc].
 
 
 I hope you enjoyed reading about my journey while creating this skill.  Check back later for more posts about my future projects!
