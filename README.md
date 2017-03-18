@@ -8,3 +8,5 @@ Personal Blog/Website: http://www.acucciniello.com/
 - [ ] Add Section for Blog Posts on Other Sites
 - [ ] Add Youtube Subscribe Button
 - [ ] Separate Blogs onto different topics
+- [ ] Projects Page to Link to Project Videos
+- [ ] Mailing List
