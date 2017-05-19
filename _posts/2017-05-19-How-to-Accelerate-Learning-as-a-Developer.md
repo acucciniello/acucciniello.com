@@ -7,9 +7,9 @@ date:   2017-05-19 2:50:10
 
 ## Introduction
 
-Has there been a time where you said to yourself "I want to learn how to play Angular!" or "I want to learn Ruby on Rails!"  So being probably completely clueless as where to start, you go over to trusty Google search "How to learn Ruby on Rails".  This takes you over to a random tutorial, you read it over, take some notes, and never actually go anywhere with it.  The tutorials would throw so much information at you, or sometimes too little  and you would have incomplete knowledge or completely confused and overwhelmed.
+Has there been a time where you said to yourself "I want to learn how to use Angular!" or "I want to learn Ruby on Rails!"  So being probably completely clueless as where to start, you go over to trusty Google search with "How to learn Ruby on Rails".  This takes you over to a random tutorial, you read it over, take some notes, and never actually go anywhere with it.  The tutorials would throw so much information at you, or sometimes too little  and you would have wither incomplete knowledge of how it all works or  be completely confused and overwhelmed.
 
-Well lucky for you, I have spent so much time through trial and error, I have come up with a process that could take you from zero to application creator in shorter time.
+Well lucky for you, I have spent so much time through trial and error, I have come up with a process that could take you from zero to application creator in much shorter time.
 
 
 ## Start with the End in Mind
@@ -38,7 +38,7 @@ Now the process of being able to ask the right questions is definitely a skill t
 
 ## Repeat
 
-Now that you have found a good example of a specific thing you need to implement in your code.  Get it working. Then repeat for the next set of functionality. 
+Now, that you have found a good example of a specific thing you need to implement in your code.  Get it working. Then repeat for the next set of functionality. 
 
 You will constantly be repeating this process: 
 
@@ -50,7 +50,7 @@ You will constantly be repeating this process:
 
 I hope you enjoyed this post and implement in your learning process.  If you have any advice on how I can Improve this process I would greatly appreciate the feedback.  Reach out to me on [twitter][twitter].  Check out my [GitHub][github] for my projects that I build using this method.
 
-This post would not have been possible without the help of mentor who taught me this process himself.  The credit for this post goes out to him.  I would highly recommend following him on [twitter][frankiesTwit], [GitHub][frankiesGH], and check out his [blog][frankiesBlog].  
+This post would not have been possible without the help of my mentor who taught me all about this process himself.  The credit for this post goes out to him.  I would highly recommend following him on [twitter][frankiesTwit], [GitHub][frankiesGH], and check out his [blog][frankiesBlog].  
 
 [github]: https://github.com/acucciniello
 [twitter]: https://twitter.com/antocucciniello
