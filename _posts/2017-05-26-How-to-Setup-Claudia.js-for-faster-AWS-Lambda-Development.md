@@ -7,7 +7,7 @@ date:   2017-05-26 12:20:10
 
 ## Introduction
 
-Have you ever used Amazon Web Services Lambda before to host your application without a server? During development, if you were doing it the manual way, you probably had to make your code changes, then zip up all of your files.  Once you had that you needed to upload the files over in your web browser at your Lambda page, and then you had to test it.  All of that takes about a minute (minus the code changes).  Doing this each code change just to see if a difference was made, adds up in the end.  
+Have you ever used Amazon Web Services Lambda before to host your application without a server? During development, if you were doing it the manual way, you probably had to make your code changes, then zip up all of your files.  Once you had that, you needed to upload the files over in your web browser at your Lambda page, and then you had to test it.  All of that takes about a minute (minus the code changes).  Doing this each code change just to see if a difference was made, adds up in the end.  
 
 That is where **Claudia.js** comes in.  It is a command line tool that allows you to create, update and test Lambda functions easily through the command line.  Today we are going to create a basic application that uses this.  Check out the GitHub [repository][claudiaTut] I created to make this easier for you!
 
@@ -15,12 +15,12 @@ That is where **Claudia.js** comes in.  It is a command line tool that allows yo
 
 Here are the prerequisites for this tutorial:
 
-1. An Amazon Web Services account that has IAM full access and full Lambda Function.  Check out [this][awsSignUp] for how to create an account.
+1. An Amazon Web Services account that has IAM full access and full Lambda access.  Check out [this][awsSignUp] for how to create an account.
 2. Node.js (version 4.3.2 and up) and NPM installed on your machine.  If you need these, check out [this][nodeInstall] link.
  
 ## Setup
 
-Create your Directory:
+Create your directory:
 
 ```
 $ mkdir claudia-tutorial
@@ -39,7 +39,7 @@ Install Claudia.js:
 $ npm install -g --save claudia
 ```
 
-Now, you want to create a folder in your user's home directory on your computer.  For me the user's name is `Antonio`.  For you it may be your name.  Enter that directory, and create a folder called .aws and enter it.
+Now, you want to create a folder in your user's home directory on your computer.  For me the user's name is `Antonio`.  For you it may be your name.  Enter that directory, and create a folder called `.aws` and enter it.
 
 ```
 $ mkdir .aws && cd .aws
@@ -165,5 +165,5 @@ For further information on Clauda.js check out their main [page][claudiaHome].
 [claudiaHome]: https://claudiajs.com/
 [awsSignUp]: http://docs.aws.amazon.com/AmazonSimpleDB/latest/DeveloperGuide/AboutAWSAccounts.html
 [nodeInstall]: https://docs.npmjs.com/getting-started/installing-node
-
+[lambdaLink]: https://aws.amazon.com/lambda/
 
