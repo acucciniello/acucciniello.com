@@ -42,10 +42,16 @@ $ npm install -g --save claudia
 Now, you want to create a folder in your user's home directory on your computer.  For me the user's name is `Antonio`.  For you it may be your name.  Enter that directory, and create a folder called `.aws` and enter it.
 
 ```
-$ mkdir .aws && cd .aws
+$ mkdir ~/.aws && cd .aws
 ```
 
-The last thing to do is to create a file called `credentials` in that folder we just made.  This is where claudia will know that you have proper AWS permissions that are associated with your account.  Your file should look like this:
+The last thing to do is to create a file called `credentials` in that folder we just made.  
+
+```
+$ touch credentials
+```
+
+This is where claudia will know that you have proper AWS permissions that are associated with your account.  Your file should look like this:
 
 ```
 [claudia]
@@ -70,7 +76,7 @@ $ touch hello-world.js
 
 Fill `lambda.js` with the following:
 
-```
+```js
 var helloWorld = require('./hello-world.js')
 
 exports.handler = function (event, context, callback) {
@@ -89,7 +95,7 @@ This first pulls in the helloWorld function.  Once that is done, it creates a si
 
 Fill `hello-world.js` with:
 
-```
+```js
 module.exports = HelloWorld
 
 function HelloWorld (input, callback) {
