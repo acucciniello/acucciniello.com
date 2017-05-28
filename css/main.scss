@@ -37,3 +37,41 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+.site-title {
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+}
+
+div.always-visible-nav-links {
+  float: right;
+
+  a.nav-link {
+    color: $text-color;
+    line-height: $base-line-height;
+
+    line-height: 56px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    margin-right: 15px;
+
+    &:visited {
+      color: $text-color;
+    }
+
+    // Space between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+}
+

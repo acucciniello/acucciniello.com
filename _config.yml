@@ -25,7 +25,9 @@ url: "http://www.acucciniello.com" # the base hostname & protocol for your site
 twitter_username: antocucciniello
 github_username:  acucciniello
 youtube_url: https://www.youtube.com/channel/UC8icMMql5SjCaXXMvILGIUA
-
+include: ["_pages"]
+permalink: /:title/
+external_posturl: "/external_posts/"
 # Build settings
 markdown: kramdown
 theme: minima
