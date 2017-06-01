@@ -9,7 +9,7 @@ date:   2017-06-02 12:20:10
 
 Welcome! I know it is out of the ordinary for me, but lately I have experimenting with using Django on the backend for some of my projects.  For a database, I have been sticking with PostgreSQL.  The purpose of this tutorial is to teach you how to get started using Django with PostgreSQL for your database work. 
 
-If you have used Django before you know that it's default relational database is SQLite.  In order to use another relational database you must complete a couple of steps.  Today we will demostrate this with PostgreSQL.
+If you have used Django before you know that it's default relational database is SQLite.  In order to use another relational database you must complete a couple of steps.  Today we will demonstrate this with PostgreSQL.
 
 ## Requirements
 
@@ -21,12 +21,12 @@ The things you need installed for this tutorial are:
 
 I am expecting you to have a basic Django backend set up.  If you do not, check out this [link][djangoTut].
 
-Now that you made sure your environemnt is set up lets add PostgreSQL.
+Now that you made sure your environment is set up let's add PostgreSQL.
 
  
 ## Edit settings.py
 
-In your `settings.py` file (located in the directory `myproject/myproject/settings.py`), you must go down to where you seem something similar to this. Instead of `django.db.backends.postgresql` you should see  `django.db.backends.sqlite3`.  
+In your `settings.py` file (located in the directory `myproject/myproject/settings.py`), you must go down to where you see a section for your DATABASE settings. Instead of `django.db.backends.postgresql` you should see  `django.db.backends.sqlite3`.  
 
 ```
 DATABASES = {
@@ -88,7 +88,7 @@ The last step here, is simply installing the package `psycopg2`:
 $ pip install psycopg2
 ```
 
-This package is simply a PostgreSQL adpater for Python.
+This package is simply a PostgreSQL adapter for Python.
 
 ## Left Overs
 
@@ -97,11 +97,11 @@ For sake of brevity with this tutorial, this is all you need to do differently f
 1. Actually create a database to use and set DB_NAME equal to the name
 2. Create a Table with rows
 3. Create a Model to represent your data and place it in your `models.py` file.
-4. Proceed with the regular things you need to do when setting up a database with Django - `migrate` and `makingmigrations`.
+4. Proceed with the regular things you need to do when setting up a database with Django - `migrate` and `makemigrations`.
 
 ## Conclusion
 
-Many developers prefer to use PostgreSQL for their database, so do not be alarmed when you see that it does not come package with Django. 
+Many developers prefer to use PostgreSQL for their database, so do not be alarmed when you see that it does not come packaged with Django. 
 
 Great job today! I know it was short, but I hope you got some value out of this!
 
