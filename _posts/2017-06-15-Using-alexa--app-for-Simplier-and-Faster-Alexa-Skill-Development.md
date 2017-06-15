@@ -7,7 +7,7 @@ date:   2017-06-15 12:20:10
 
 ## Introduction
 
-Have you built an Amazon Echo skill previously and wanted to gind a way to speed up development? I think I may have found the package for you.  It is called [alexa-app][alexaApp]. This package allows for us to get a functioning skill up and running much faster than we could before.
+Have you built an Amazon Echo skill previously and wanted to find a way to speed up development? I think I may have found the package for you.  It is called [alexa-app][alexaApp]. This package allows for us to get a functioning skill up and running much faster than we could before.
 
 For today's tutorial, we are going to use a simple skill I created for you to follow along with on development.  It is called [alphabet-teacher][alphaTeach]. To improve your learning of how it all works I suggest that you retype all the code in order to help your mind make the connections necessary.
 
@@ -45,9 +45,9 @@ If you are taking a look at `index.js`, you can see it is pretty simple.  It is 
  
 ### alphabet-teacher.js
 
-The first thing we do here, is require our `alexa-app` module this was we can use it.  Then we craete a new app instance giving it a name (alphabet-teacher).
+The first thing we do here, is require our `alexa-app` module this was we can use it.  Then we create a new app instance giving it a name (alphabet-teacher).
 
-From there, we will want to create a launch intent as our first intent.  In order to do this we use the structure: 
+From there, we will want to create a launch intent as our first intent.  In order to do this, we use the structure: 
 
 ```
 app.launch(function(request, response) {
@@ -81,7 +81,7 @@ app.intent('AlphabetIntent', {
 })
 ```
 
-Here we created a custom intent called *Alphabet Intent*.  This intent is something I created.  And all we had to do to create this intent is give it this name, along with it's sample utterances.  If you do not know what an intent is or a smaple utterance is check out my blog post on that [here][intentBP]. See how easy it is to develop any type of intent in seconds with `alexa-app`?
+Here we created a custom intent called *Alphabet Intent*.  This intent is something I created.  And all we had to do to create this intent is give it this name, along with it's sample utterances.  If you do not know what an intent is or a sample utterance is check out my blog post on that [here][intentBP]. See how easy it is to develop any type of intent in seconds with `alexa-app`?
 
 ## Test
 
