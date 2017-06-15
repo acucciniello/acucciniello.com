@@ -7,7 +7,7 @@ date:   2017-06-15 12:20:10
 
 ## Introduction
 
-Have you built an Amazon Echo skill previously and wanted to find a way to speed up development? I think I may have found the package for you.  It is called [alexa-app][alexaApp]. This package allows for us to get a functioning skill up and running much faster than we could before.
+Have you built an Amazon Echo skill previously and wanted to find a way to speed up development? I think I may have found the package for you.  It is called [alexa-app][alexaApp]. This package allows for us to get a functioning skill up and running much faster than we could previously with traditional methods.
 
 For today's tutorial, we are going to use a simple skill I created for you to follow along with on development.  It is called [alphabet-teacher][alphaTeach]. To improve your learning of how it all works I suggest that you retype all the code in order to help your mind make the connections necessary.
 
@@ -45,7 +45,7 @@ If you are taking a look at `index.js`, you can see it is pretty simple.  It is 
  
 ### alphabet-teacher.js
 
-The first thing we do here, is require our `alexa-app` module this was we can use it.  Then we create a new app instance giving it a name (alphabet-teacher).
+The first thing we do here, is require our `alexa-app` module this way we can use it.  Then we create a new app instance giving it a name (alphabet-teacher).
 
 From there, we will want to create a launch intent as our first intent.  In order to do this, we use the structure: 
 
@@ -57,7 +57,7 @@ app.launch(function(request, response) {
 
 Let's quickly break it down. `app.launch` specifies a launch intent.  Then we have a callback that has access to the lambda request and response. Then we simply can end the launch request by saying a phrase and sending it over with `response.say()`.
 
-Next let's take a look at how our [Amazon specific intents] are created.  These are intents like Help, Stop and Cancel intent.
+Next let's take a look at how our [Amazon specific intents][intents] are created.  These are intents like Help, Stop and Cancel intent.
 
 ```
 app.intent('AMAZON.HelpIntent',{
@@ -110,3 +110,4 @@ Reach out and follow me on [twitter][twitter]!  Check out my [GitHub][github] fo
 [alphaTeach]: https://github.com/acucciniello/alphabet-teacher
 [alexaApp]: https://www.npmjs.com/package/alexa-app
 [intentBP]: https://www.packtpub.com/books/content/how-add-custom-slot-types-intents/?utm_source=twitter&utm_medium=social&utm_campaign=blog
+[intents]: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/built-in-intent-ref/standard-intents
