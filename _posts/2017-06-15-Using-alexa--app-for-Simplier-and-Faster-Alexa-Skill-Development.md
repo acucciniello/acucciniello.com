@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using alexa-app for Simpler and Faster Alexa Skill Development"
-date:   2017-06-15 12:20:10 
+date:   2017-06-16 12:20:10 
 ---
 
 
