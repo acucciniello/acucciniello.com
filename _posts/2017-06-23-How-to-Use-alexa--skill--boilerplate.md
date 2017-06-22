@@ -97,19 +97,19 @@ That registers your skill with AWS Lambda.  Now you only need to do a couple of 
 
 1.When in the AWS Lambda homepage, click on the skill you just created
 
-![AWSLambdaFunctionsImage](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/aws_lam_functs.png)
+![AWSLambdaFunctionsImage](/assets/alexa-boiler/aws_lam_functs.png)
 
 2.Click test 
 
-![TestButtonImage](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/save_test_button.png)
+![TestButtonImage](/assets/alexa-boiler/save_test_button.png)
 
 3.This will ask you to bring up a test event.  Click the scroll down menu and select 'Alexa Start Session'.
 
-![StartSessionImage](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/start_session.png)
+![StartSessionImage](/assets/alexa-boiler/start_session.png)
 
 4.Click Save and test 
 
-![SaveTestButton](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/save_test_button.png)
+![SaveTestButton](/assets/alexa-boiler/save_test_button.png)
 
 5.It succeeds!
  
