@@ -101,7 +101,7 @@ That registers your skill with AWS Lambda.  Now you only need to do a couple of 
 
 2.Click test 
 
-![TestButtonImage](/assets/alexa-boiler/save_test_button.png)
+![TestButtonImage](/assets/alexa-boiler/test-button.png)
 
 3.This will ask you to bring up a test event.  Click the scroll down menu and select 'Alexa Start Session'.
 
