@@ -29,19 +29,18 @@ Now let's take a look at how to get setup!
 
 ## Getting Started
 
-1. Clone the repository (with your new skill name):
+1.Clone the repository (with your new skill name):
 
 ```
 $ git clone https://github.com/acucciniello/alexa-skill-boilerplate.git new-skill-name
 ```
-
-2. Install all packages:
+2.Install all packages:
 
 ```
 $ yarn
 ```
 
-3. Start Adding Intents to your skill by editing `app.js`
+3.Start Adding Intents to your skill by editing `app.js`
  
  So here is where you can add intents by simply editing the `SampleIntent` I have there for you.  
 
@@ -57,7 +56,7 @@ Edit the `'app'` to whatever the skill's name will be.
 
 When it is time for you to add tests, open `test/test.js`.  Follow the format that is laid out with the previous tests as a good start.
 
-Here we are using mocha for a testing framework.  We are using Chai for the assertion library to compare specific values.  We are using `bespoken-tools` in our tests to mock our alexa skill behavior by allowing us to invoke certain intents and access the response's values.
+Here we are using mocha for a testing framework.  We are using chai for the assertion library to compare specific values.  We are using `bespoken-tools` in our tests to mock our alexa skill behavior by allowing us to invoke certain intents and access the response's values.
 
 Now to run the tests I have set up an easy command for you: 
 
@@ -66,7 +65,7 @@ $ yarn test
 ```
 
 ## Deployment
-Before we do any deployment, setup your environment to use claudia (this is taken from my blog post on using claudia [here][claudiaBP]:
+Before we do any deployment, setup your environment to use claudia (this is taken from my blog post on using claudia [here][claudiaBP]):
 
 Now, you want to create a folder in your user’s home directory on your computer. For me the user’s name is Antonio. For you it may be your name. Enter that directory, and create a folder called .aws and enter it.
 
@@ -96,23 +95,23 @@ $ yarn deploy
 
 That registers your skill with AWS Lambda.  Now you only need to do a couple of manual things to actually test this skill in AWS Lambda:
 
-1. When in the AWS Lambda homepage, click on the skill you just created
+1.When in the AWS Lambda homepage, click on the skill you just created
 
 ![AWSLambdaFunctionsImage](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/aws_lam_functs.png)
 
-2. Click test 
+2.Click test 
 
 ![TestButtonImage](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/save_test_button.png)
 
-3. This will ask you to bring up a test event.  Click the scroll down menu and select 'Alexa Start Session'.
+3.This will ask you to bring up a test event.  Click the scroll down menu and select 'Alexa Start Session'.
 
 ![StartSessionImage](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/start_session.png)
 
-4. Click Save and test 
+4.Click Save and test 
 
 ![SaveTestButton](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/save_test_button.png)
 
-5. It succeeds!
+5.It succeeds!
  
 ## Conclusion
 
