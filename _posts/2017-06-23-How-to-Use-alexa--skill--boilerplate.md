@@ -17,7 +17,7 @@ Let's go over the packages I am using for this.
 
 1. `alexa-app`: This is for faster and easier Alexa skill development with built in functions you can check out [here][alexaapp]
 
-2. `mocha`: This is a [testing frameowrk][mocha] for our unit tests.
+2. `mocha`: This is a [testing framework][mocha] for our unit tests.
 
 3. `chai`: This is an [assertion library][chai] to aid us in testing.
 
@@ -26,8 +26,6 @@ Let's go over the packages I am using for this.
 5. `claudia`: This allows us to deploy our skill to AWS Lambda easily through the command line. Check it out [here][claudia]
 
 Now let's take a look at how to get setup!
-
-## Getting Started
 
 ## Getting Started
 
@@ -100,25 +98,25 @@ That registers your skill with AWS Lambda.  Now you only need to do a couple of 
 
 1. When in the AWS Lambda homepage, click on the skill you just created
 
-![AWSLambdaFunctionsImage]()
+![AWSLambdaFunctionsImage](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/aws_lam_functs.png)
 
 2. Click test 
 
-![TestButtonImage]()
+![TestButtonImage](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/save_test_button.png)
 
 3. This will ask you to bring up a test event.  Click the scroll down menu and select 'Alexa Start Session'.
 
-![StartSessionImage]()
+![StartSessionImage](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/start_session.png)
 
 4. Click Save and test 
 
-![SaveTestButton]()
+![SaveTestButton](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/alexa-boiler/save_test_button.png)
 
 5. It succeeds!
  
 ## Conclusion
 
-I created this for any developer attempting to start building Amazon Alexa skills and does not know where to start, or an expereinced developer who wants to be more efficient while using the best technologies!
+I created this for any developer attempting to start building Amazon Alexa skills and does not know where to start, or an experienced developer who wants to be more efficient while using the best technologies!
 
 Thank you for reading! It would help me greatly if could take two seconds and share this on social media!
 
