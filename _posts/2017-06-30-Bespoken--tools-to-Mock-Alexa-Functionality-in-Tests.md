@@ -7,7 +7,7 @@ date:   2017-06-30 12:20:10
 
 ## Introduction
 
-Hey there! If you are like me, you wanted to add some unit tests to your alexa skills.  The problem that always limited me was it seemed lke such a daunting task to have to mock so many different things on your own.  Luckily I have found an awesome package that allows for this: [bespoken-tools][bst]
+Hey there! If you are like me, you wanted to add some unit tests to your alexa skills.  The problem that always limited me was it seemed like such a daunting task to have to mock so many different things on your own.  Luckily I have found an awesome package that allows for this: [bespoken-tools][bst]
 
 For this tutorial I am going to show you how I set up my testing in my [alexa-skill-boilerplate][ASB]. We are going to use this as an example. As a side note we are using [mocha][mocha] as a testing framework and [chai][chai] as an assertion library.
 
@@ -77,7 +77,7 @@ beforeEach(function (done) {
   })
 ```
 
-The purpose of our `beforeEach()` function is to allow us to create a server that will host our lambda code.  This is the first paramter to the function. Next we want to set up an alexa emulator with `new bst.BSTAlexa()`. In order to get this working we need an `IntentSchema.json` and `SampleUtterances.txt`.  They respectively hold you intent scehma and the utterances you want to use for your intents.  
+The purpose of our `beforeEach()` function is to allow us to create a server that will host our lambda code.  This is the first parameter to the function. Next we want to set up an alexa emulator with `new bst.BSTAlexa()`. In order to get this working we need an `IntentSchema.json` and `SampleUtterances.txt`.  They respectively hold you intent schema and the utterances you want to use for your intents.  
 
 ### afterEach()
 
