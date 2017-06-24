@@ -13,7 +13,7 @@ For this tutorial I am going to show you how I set up my testing in my [alexa-sk
 
 ## Test Setup
 
-1.Clone the repository (with your new skill name):
+1.Clone the repository:
 
 ```
 $ git clone https://github.com/acucciniello/alexa-skill-boilerplate.git
@@ -77,7 +77,7 @@ beforeEach(function (done) {
   })
 ```
 
-The purpose of our `beforeEach()` function is to allow us to create a server that will host our lambda code.  This is the first parameter to the function. Next we want to set up an alexa emulator with `new bst.BSTAlexa()`. In order to get this working we need an `IntentSchema.json` and `SampleUtterances.txt`.  They respectively hold you intent schema and the utterances you want to use for your intents.  
+The purpose of our `beforeEach()` function is to allow us to create a server that will host our lambda function.  This is the first parameter to the function. Next we want to set up an alexa emulator with `new bst.BSTAlexa()`. In order to get this working we need an `IntentSchema.json` and `SampleUtterances.txt`.  They respectively hold you intent schema and the utterances you want to use for your intents.  
 
 ### afterEach()
 
@@ -150,7 +150,7 @@ it('Cancels and Exits Skill upon calling CancelIntent', function (done) {
 })
 ```
 
-Here we simply testing the functionality of an `AMAZON.HelpIntent`, `AMAZON.CancelIntent`, and `AMAZON.StopIntent`. Like the last example we are simply checking to the see the output matches what we want the skill to say.  The only difference here is we are using `alexa.intended()`.  This takes the intent name as the first parameter, the second one is the slot for that intent, and the callback.
+Here we simply testing the functionality of an `AMAZON.HelpIntent`, `AMAZON.CancelIntent`, and `AMAZON.StopIntent`. Like the last example we are simply checking to the see the output matches what we want the skill to say.  The only difference here is we are using `alexa.intended()`.  This takes the intent name as the first parameter, the second parameter is the slot(s) for that intent, and the callback.
 
 ### Any Other Intent Testing
 
