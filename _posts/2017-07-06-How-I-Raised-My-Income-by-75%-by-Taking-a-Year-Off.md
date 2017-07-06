@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I Raised My Income by 75% by Taking a Year off"
+title:  "How I  Raised My Income by 75% by Taking a Year off"
 date:   2017-07-07 12:20:10 
 ---
 
