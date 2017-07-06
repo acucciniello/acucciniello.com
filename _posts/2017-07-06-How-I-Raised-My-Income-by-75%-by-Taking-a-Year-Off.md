@@ -7,7 +7,7 @@ date:   2017-07-07 12:20:10
 
 ## Introduction
 
-Hello All! I am going to describe my journey over my job searching process the past year and a half for those that are struggling in the job search themselves.  Never lose hope! Something better is always on the horizon.  So let's begin at the beginning of my journey in late 2015.
+Hello All! I am going to describe my journey from my job searching process over the past year and a half for those that are struggling in the job search themselves.  Never lose hope! Something better is always on the horizon.  So let's begin at the beginning of my journey in late 2015.
 
 
 ## Journey
@@ -16,13 +16,13 @@ This all started because I wanted to learn web development and new technologies!
 
 ### Q4 2015
 
-I had my 1st 2 phone interviews.  Boy was I unprepared! I got these interviews through referrals from friends.  I did not know much about web development, and my current position had nothing to do with web development but more applications development.
+I had my 1st 2 phone interviews.  Boy was I unprepared! I got these interviews through referrals from friends.  I did not know much about web development, and my current position had nothing to do with web development.
 
 **Lesson Learned: Don't use referrals for positions unless you know you are qualified for a position. It looks poorly for you and the friend that helped you.** 
 
 ### Q1 2016
 
-At this point, I finished my first full stack project.  Although I completed it from start to finish there were plenty of knowledge gaps that I had that I needed to fill.
+At this point, I finished my first full stack project.  Although I completed it from start to finish there were plenty of knowledge gaps that I had, that I needed to fill.
 
 **Lesson Learned: Once you learn something, keep improving on it to become significantly better. Do not stop after the first time.**
 
@@ -58,13 +58,13 @@ I did some mock interviews with my mentor, and he revealed that I was portraying
 
 ### Q2 2017
 
-The interviews kept coming in.  Making adjustments in the way I was presenting myself, I was finally getting in person interviews.  In the month of April, I had 4 in-person interviews alone.  This was progress, but I still was not receiving offers.
+The interviews kept coming in.  Making adjustments in the way I was presenting myself, I was finally getting in-person interviews.  In the month of April, I had 4 in-person interviews alone.  This was progress, but I still was not receiving offers.
 
 **Lessons Learned: Perception was key once again.  I focused on that.  Also persistence in my vision was also what allowed me to overcome all of these rejections and negativity from family and friends.**
 
 ### June 2017
 
-The interviews were rolling in, I almost always had one.  I had one final interview that was going so well (or so I thought), but in the middle of the interview they told me that I was not qualified and they sent me home. This was a huge blowback.  I was counting on this one to pull through.  
+The interviews were rolling in, I almost always had one lined up in the near future.  I had one final interview that was going so well (or so I thought), but in the middle of the interview they told me that I was not qualified and they sent me home. This was a huge blowback.  I was counting on this one to pull through.  
 
 After a little sadness, I came around the next day.  I pulled 4 interviews next week and ultimately got a job offer!
 
@@ -76,7 +76,7 @@ Over this time period, I learned a thing or two about searching for jobs, how to
 
 ### Going in the Front Door is Always the Hardest
 
-I sent nearly 500 application and emails in my search time.  I may have gotten a total of 5 interviews from my applications where as I got interviews from emails at a 10% rate.  With applications you easily get lost and there is so much competition that your resume usually gets thrown out.  
+I sent nearly 500 applications and emails in my search time.  I may have gotten a total of 5 interviews from my applications where as I got interviews from emails at a 10% rate.  With applications you easily get lost and there is so much competition that your resume usually gets thrown out.  
 
 You must find a way around this in order to be successful.  Cold emailing engineers asking them questions and building relationships that way is something that worked greatly.  Creating engaging cover letters that make people want to speak to you.  Using your network in person or on LinkedIn.  Use recruiters (although my experience with recruiters has not been the best.)  Attend Meet-ups and meet people in person.  Offer to help other people online in need.
 
@@ -88,16 +88,16 @@ Having a technical blog where you are making things easier to understand for oth
 
 ### Contribute to Open Source
 
-Although I did not have a job the entire time I did not let that prevent me from programming.  Thanks to open source projects that I created or worked on, I improved my skills greatly.  Not only this, but more importantly it showed to employers that I have initiative, and that I could actually do the work since they could actually view the code I wrote.
+Although I did not have a job the entire time I did not let that prevent me from programming.  Thanks to open source projects that I created or worked on, I improved my skills greatly.  Not only this, but more importantly it showed to employers that I have initiative, and that I could actually do the work since they could physically view the code I wrote.
 
 ### Perception
 
-When I knew the information for the interviews, I was failing by presenting myself in a certain light for employers.  You want everything about you to be positive, humble but knowing that the sky is the limit in your potential.  You want to be able to learn anything and are hungry to grow and contribute.  
+When I knew the information for the interviews, I was failing by presenting myself in a certain light for employers.  You want everything about you to be positive, humble, but knowing that the sky is the limit in your potential.  You want to be able to learn anything and are hungry to grow and contribute.  
 
 One thing that helped me greatly here, was doing mock interviews.  From the mock interviews I was able to get feedback on how I was presenting myself.  
 
-Now knowing how I was showing up in my interviews.  I had to put myself in the perspective of the employer.  What were they looking for? What did they want to hear? 
-This led me to write stories for each part of my resume that made sure I was coming off in a certain light.  I wrote out these stories and talk practiced my delivery over and over again.
+Now knowing how I was showing up in my interviews.  I had to put myself in the perspective of the employer.  *What were they looking for? What did they want to hear? *
+This led me to write stories for each part of my resume that made sure I was coming off in a certain light.  I wrote out these stories and practiced my delivery over and over again.
 
 ### Marketing & Leveraging the Power of the Internet
 
@@ -109,9 +109,9 @@ You need to be able to do this over the long haul.  Once you commit to something
 
 ## Conclusion
 
-There it is, my job search.  It inspired me to work harder than I have every worked before, absorb so much information, be extremely resourceful, and turned out everything worked out in my favor.  I had interviews at 31 places that led to one awesome opportunity.  Never give up.
+There it is, my job search.  It inspired me to work harder than I have every worked before, absorb so much information, be extremely resourceful, and it turned out everything worked out in my favor.  I had interviews at 31 places that led to one awesome opportunity.  Never give up.
 
-I hop you take these key takeaways and learn from them (it could save you plenty of time rather than finding out the hard way.)
+I hope you take these key takeaways and learn from them (it could save you plenty of time rather than finding out the hard way.)
 
 Thank you for reading! It would help me greatly if could take two seconds and share this on social media!
 
