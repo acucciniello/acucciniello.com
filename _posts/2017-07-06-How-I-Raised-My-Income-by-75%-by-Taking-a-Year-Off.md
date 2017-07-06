@@ -72,21 +72,44 @@ After a little sadness, I came around the next day.  I pulled 4 interviews next 
 
 ## Key Takeaways
 
+Over this time period, I learned a thing or two about searching for jobs, how to be a better devleoper, and many life lessons. I am sharing them with you so you can learn without having to go to failure to learn them.
+
 ### Going in the Front Door is Always the Hardest
+
+I sent nearly 500 apllication and emails in my search time.  I may have gotten a total of 5 interviews from my applkcations where as I got interviews from emails at a 10% rate.  With appplications you easily get lost and there is so much competeition that your resume usually gets thrown out.  
+
+You must find a way around this in order to be successful.  Cold emailing engineers asking them questions and building relationships that way is something that worked greatly.  Creating enginagin cover letters that make people want to speak to you.  Using your network in person or on LinkedIn.  Use recruiters (although my experiecne with recruieters has not been the best.)  Attend Meetups and meet people in person.  Offter to help other people online in need.
+
+All of these things take extra work and time, but you must be willing to go the extra mile to get the extra mile.
 
 ### Create a Blog
 
+Having a technical blog where you are making things easier to understand for others is huge.  Not only does this help put your name out there on the internet for jobs, it also validates you know the knowledge if you can teach it to others, and it shows you really care aout the technology if you care enough to talk about it online.
+
 ### Contribute to Open Source
+
+Although I did not have a job the entire time I did not let that prevent me from programming.  Thanks to open source projects that I created or worked on, I improved my skills greatly.  Not only this, but more importantly it showed to employers that I have initiative, and that I could actually do the work since they could actually view the code I wrote.
 
 ### Perception
 
+When I knew the information for the interviews, I was failing by presenting myself in a certain light for employers.  You want everything about you to be positive, humble but knowing that the sky is the limit in your potential.  You want to be able to learn anything and are hungry to grow and contribute.  
+
+One thing that helped me greatly here, was doing mock interviews.  From the mock interviews I was able to get feedback on how I was presenting myself.  
+
+Now knowing how I was showing up in my interviews.  I had to put myself in the perspective of the eployer.  What were they looking for? What did they want to hear? 
+This led me to write stories for each part of my resume that made sure I was coming off in a certain light.  I wrote out these stories and talk practiced my delivery over and over again.
+
 ### Marketing & Leveraging the Power of the Internet
+
+The internet is so powerful! You can create things for others to use in minutes.  Blogging and contributing to open source are awesome.  But without being able to market it so others can see it regularuly then you will get no attention for the projects you worked hard on.  Getting this marketing down will help others see your work and connect you to opportunities that way.
 
 ### Hustle & Persistence
 
+You need to be able to do this over the long haul.  Once you commit to something do not give up ever.  Realize that the reason why you are not there yet is because you are not ready for it.  There are things you are missing that failure is trying to teach you.  You need to be open to recieving these lessons from failure.  Once you learn from it, act on it and you will be at least one step closer if not more.  
+
 ## Conclusion
 
-There it is, my job search.  It inspired me to work harder than I have every worked before, absorb so much information, be extremely resourceful, and turned out everything worked out in my favor.
+There it is, my job search.  It inspired me to work harder than I have every worked before, absorb so much information, be extremely resourceful, and turned out everything worked out in my favor.  I had interviews at 31 places that led to one awesome opportunity.  Never give up.
 
 I hop you take these key takeways and learn from them (it could save you plenty of time rather than finding out the hard way.)
 
