@@ -7,7 +7,7 @@ date:   2017-07-07 12:20:10
 
 ## Introduction
 
-Hello All! I am going to decsribe my journey over my job searching process the past year and a half for those that are struggling in the job search themselves.  Never lose hope! Something better is always on the horizon.  So let's begin at the begining of my journey in late 2015.
+Hello All! I am going to describe my journey over my job searching process the past year and a half for those that are struggling in the job search themselves.  Never lose hope! Something better is always on the horizon.  So let's begin at the beginning of my journey in late 2015.
 
 
 ## Journey
@@ -22,7 +22,7 @@ I had my 1st 2 phone interviews.  Boy was I unprepared! I got these interviews t
 
 ### Q1 2016
 
-At this point, I finisdhed my first fullstack project.  Although I completed it from start to finsih there were plenty of knowledge gaps that I had that I needed to fill.
+At this point, I finished my first full stack project.  Although I completed it from start to finish there were plenty of knowledge gaps that I had that I needed to fill.
 
 **Lesson Learned: Once you learn something, keep improving on it to become significantly better. Do not stop after the first time.**
 
@@ -34,9 +34,9 @@ At this point, I made the decision to leave the cushion and safety of my current
 
 ### Q3 2016
 
-In the beggining of the quarter, I was adjusting to being completley on my own.  Productivity was not at its highest due to lack of details in my plan.  I knew were I wanted to go, but did not flesh it out completely.
+In the beginning of the quarter, I was adjusting to being completely on my own.  Productivity was not at its highest due to lack of details in my plan.  I knew were I wanted to go, but did not flesh it out completely.
 
-This is where my learning really started happening.  I created my 1st Amazon echo skill, played around with unit testing, continous integration, refactoring, modularizing my code, and ultimately releasing a product that hundreds of people used.
+This is where my learning really started happening.  I created my 1st Amazon echo skill, played around with unit testing, continuous integration, refactoring, modularizing my code, and ultimately releasing a product that hundreds of people used.
 
 **Lessons Learned: Projects really accelerated my learning here.  Never use tutorials or courses as a way to learn.  Spend as much time learning by doing as possible.**
 
@@ -50,7 +50,7 @@ So, I had set a goal to get a new position by the end of August 2016.  That day 
 
 Another quarter goes by, with no new position.  This was definitely a bummer.  All of my friends and family (minus like 2 people) thought I had become a bum.  They thought I was simply "playing around on the computer all day."  Little did they know I was being more productive than I ever was cranking out code and writing blog posts.  
 
-It was during this time my resume started looking nicer and was picking up some traction.  Due to my emailing and applying, I started getting alot more interviews.  For some reason, I was not getting passed the easiest part, the phone interviews. 
+It was during this time my resume started looking nicer and was picking up some traction.  Due to my emailing and applying, I started getting plenty more interviews.  For some reason, I was not getting passed the easiest part, the phone interviews. 
 
 I did some mock interviews with my mentor, and he revealed that I was portraying my self in a non-confident light.  That was making interviewers think that I did not have the skillset for the position.  
 
@@ -58,7 +58,7 @@ I did some mock interviews with my mentor, and he revealed that I was portraying
 
 ### Q2 2017
 
-The interviews kept coming in.  Making adjustments in the way I was presenting myself, I was finally getting in person interviews.  In the month of April I had 4 in-person interviews alone.  This was progress, but I still was not receiving offers.
+The interviews kept coming in.  Making adjustments in the way I was presenting myself, I was finally getting in person interviews.  In the month of April, I had 4 in-person interviews alone.  This was progress, but I still was not receiving offers.
 
 **Lessons Learned: Perception was key once again.  I focused on that.  Also persistence in my vision was also what allowed me to overcome all of these rejections and negativity from family and friends.**
 
@@ -72,19 +72,19 @@ After a little sadness, I came around the next day.  I pulled 4 interviews next 
 
 ## Key Takeaways
 
-Over this time period, I learned a thing or two about searching for jobs, how to be a better devleoper, and many life lessons. I am sharing them with you so you can learn without having to go to failure to learn them.
+Over this time period, I learned a thing or two about searching for jobs, how to be a better developer, and many life lessons. I am sharing them with you so you can learn without having to go to failure to learn them.
 
 ### Going in the Front Door is Always the Hardest
 
-I sent nearly 500 apllication and emails in my search time.  I may have gotten a total of 5 interviews from my applkcations where as I got interviews from emails at a 10% rate.  With appplications you easily get lost and there is so much competeition that your resume usually gets thrown out.  
+I sent nearly 500 application and emails in my search time.  I may have gotten a total of 5 interviews from my applications where as I got interviews from emails at a 10% rate.  With applications you easily get lost and there is so much competition that your resume usually gets thrown out.  
 
-You must find a way around this in order to be successful.  Cold emailing engineers asking them questions and building relationships that way is something that worked greatly.  Creating enginagin cover letters that make people want to speak to you.  Using your network in person or on LinkedIn.  Use recruiters (although my experiecne with recruieters has not been the best.)  Attend Meetups and meet people in person.  Offter to help other people online in need.
+You must find a way around this in order to be successful.  Cold emailing engineers asking them questions and building relationships that way is something that worked greatly.  Creating engaging cover letters that make people want to speak to you.  Using your network in person or on LinkedIn.  Use recruiters (although my experience with recruiters has not been the best.)  Attend Meet-ups and meet people in person.  Offer to help other people online in need.
 
 All of these things take extra work and time, but you must be willing to go the extra mile to get the extra mile.
 
 ### Create a Blog
 
-Having a technical blog where you are making things easier to understand for others is huge.  Not only does this help put your name out there on the internet for jobs, it also validates you know the knowledge if you can teach it to others, and it shows you really care aout the technology if you care enough to talk about it online.
+Having a technical blog where you are making things easier to understand for others is huge.  Not only does this help put your name out there on the internet for jobs, it also validates you know the knowledge if you can teach it to others, and it shows you really care about the technology if you care enough to talk about it online.
 
 ### Contribute to Open Source
 
@@ -96,22 +96,22 @@ When I knew the information for the interviews, I was failing by presenting myse
 
 One thing that helped me greatly here, was doing mock interviews.  From the mock interviews I was able to get feedback on how I was presenting myself.  
 
-Now knowing how I was showing up in my interviews.  I had to put myself in the perspective of the eployer.  What were they looking for? What did they want to hear? 
+Now knowing how I was showing up in my interviews.  I had to put myself in the perspective of the employer.  What were they looking for? What did they want to hear? 
 This led me to write stories for each part of my resume that made sure I was coming off in a certain light.  I wrote out these stories and talk practiced my delivery over and over again.
 
 ### Marketing & Leveraging the Power of the Internet
 
-The internet is so powerful! You can create things for others to use in minutes.  Blogging and contributing to open source are awesome.  But without being able to market it so others can see it regularuly then you will get no attention for the projects you worked hard on.  Getting this marketing down will help others see your work and connect you to opportunities that way.
+The internet is so powerful! You can create things for others to use in minutes.  Blogging and contributing to open source are awesome.  But without being able to market it so others can see it regularly then you will get no attention for the projects you worked hard on.  Getting this marketing down will help others see your work and connect you to opportunities that way.
 
 ### Hustle & Persistence
 
-You need to be able to do this over the long haul.  Once you commit to something do not give up ever.  Realize that the reason why you are not there yet is because you are not ready for it.  There are things you are missing that failure is trying to teach you.  You need to be open to recieving these lessons from failure.  Once you learn from it, act on it and you will be at least one step closer if not more.  
+You need to be able to do this over the long haul.  Once you commit to something do not give up ever.  Realize that the reason why you are not there yet is because you are not ready for it.  There are things you are missing that failure is trying to teach you.  You need to be open to receiving these lessons from failure.  Once you learn from it, act on it and you will be at least one step closer if not more.  
 
 ## Conclusion
 
 There it is, my job search.  It inspired me to work harder than I have every worked before, absorb so much information, be extremely resourceful, and turned out everything worked out in my favor.  I had interviews at 31 places that led to one awesome opportunity.  Never give up.
 
-I hop you take these key takeways and learn from them (it could save you plenty of time rather than finding out the hard way.)
+I hop you take these key takeaways and learn from them (it could save you plenty of time rather than finding out the hard way.)
 
 Thank you for reading! It would help me greatly if could take two seconds and share this on social media!
 
@@ -121,7 +121,4 @@ Reach out and follow me on [twitter][twitter]!  Check out my [GitHub][github] fo
 [github]: https://github.com/acucciniello
 [twitter]: https://twitter.com/antocucciniello
 [youtube]: https://www.youtube.com/channel/UC8icMMql5SjCaXXMvILGIUA
-[ASB]: https://github.com/acucciniello/alexa-skill-boilerplate
-[mocha]: https://mochajs.org/
-[chai]: http://chaijs.com/
-[bst]: https://bespoken.tools/
+
