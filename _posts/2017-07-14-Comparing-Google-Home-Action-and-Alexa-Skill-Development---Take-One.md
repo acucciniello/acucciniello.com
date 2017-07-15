@@ -11,9 +11,9 @@ If you have been following along with my posts you know that I have created four
 
 Throughout my first experience, I learned plenty along the way.  I noticed some similarities and differences between the two platforms for development and wanted to point them out.  My goal here is to help those that know one of the forms and would like a quick overview on how they are similar.
 
-## Similiarities
+## Similarities
 
-Here are two of the similiarities that I was able to notice!
+Here are two of the similarities that I was able to notice!
 
 ### Intents
 
@@ -33,9 +33,9 @@ Here are two concepts that were different during development.
 
 With API.AI we have this new concept of *Contexts*.  They are either inputs or outputs to intents that are executed or used to pass information to an intent, based off the scenario you are in.  Hence the reason why it is called a context.  It uses the conntext of the situation to help determine what happens.  I will not go into all the parts of contexts here so check out this explanation from [Google][context].
 
-### Webhooks/Fullfillments
+### Webhooks/Fulfillment
 
-With Google Home Actions, in order to get more than hardcoded functionality to your action, you must add what is known as a *fullfillment*.  This is basically a third party API or one that you developed that you call on execution of a specific intent.  
+With Google Home Actions, in order to get more than hardcoded functionality to your action, you must add what is known as a *fulfillment*.  This is basically a third party API or one that you developed that you call on execution of a specific intent.  
 
 In Alexa skills, you code all the functionality inside the skill's intent function and then host it on Lambda or use your own server.  Here we must code that functionality and have a public URL to access it.
 
