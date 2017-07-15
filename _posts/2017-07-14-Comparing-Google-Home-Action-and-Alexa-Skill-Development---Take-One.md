@@ -19,11 +19,15 @@ Here are two of the similarities that I was able to notice!
 
 API.AI and Alexa Skills both use this concept of intents.  This is how the skill or action knows what the user is *intending* to do.
 
-The differences here lie on how they are both established in two platforms.  For Alexa there is an Intent Schema JSON file that displays what the intents are, and what slot types they have.  Then you have a sample file on how the intents are invoked. For API.AI, this is all in the same JSON file (unless you use the UI to do it then they are just on the same page). 
+The differences here lie on how they are both established in two platforms.  For Alexa there is an Intent Schema JSON file that displays what the intents are, and what are slot types that they have.  Then you have a sample file on how the intents are invoked.
+
+For API.AI, this is all in the same JSON file (unless you use the UI to do it then they are just on the same page). Here the difference is that each intent is split up into its own JSON file.
 
 ### Starting Action/Skill
 
-In a similar way how you launch a skill on an Echo, n Google Home you must start an action with *"Ok Google, talk to action_name"*.  This opens the `Welcome Intent` for that action and from there, you can move to other intents within the action.
+In a similar way how you launch a skill on an Echo, on Google Home you must start an action with *"Ok Google, talk to action_name"*.  This opens the `Welcome Intent` for that action and from there, you can move to other intents within the action.
+
+In Alexa's World this would be when you are launching a skill with the `Launch Intent`.
 
 ## Differences
 
@@ -45,7 +49,7 @@ I will be creating a tutorial on how to do this, so stay tuned to my site for th
 
 Overall, I really enjoyed developing the Google Home Action with API.AI.  The UI for API.AI is very friendly, and once you get used to the new terminology it should be easy.
 
-Take a look at the [action] I built
+Take a look at the [action][hnaction] I built.
 Thank you for reading! It would help me greatly if could take two seconds and share this on social media!
 
 Reach out and follow me on [twitter][twitter]!  Check out my [GitHub][github] for my open source projects! Take a look at my [YouTube Channel][youtube].
