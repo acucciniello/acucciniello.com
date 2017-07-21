@@ -13,7 +13,7 @@ Have you ever wanted to link your application to a third party application? This
 
 In order to start the process, there must be an *Authorization Url* that you try to access from your application.  This usually looks something along the lines of this:
 
-![SignIn](https://github.com/acucciniello/acucciniello.com/blob/gh-pages/assets/oauth-auth-code/signin.png)
+![SignIn](/assets/oauth-auth-code/signin.png)
 
 It presents you with what the application is trying to use or read and if you accept the terms and permissions it is being asked to grant.
 
