@@ -13,12 +13,15 @@ I am starting a series where I will talk about the key points from each chapter 
 
 The first part of the mindset is to take responsibility for everything that happens. Whether it is something good or something bad.  If you worked on it, at least part of it has to be your fault.  So own up to it, and be proactive about fixing it by providing options and not complaining and pointing fingers.
 
-![SignIn](/assets/oauth-auth-code/signin.png)
+![NoExcuses](/assets/ch1-prag-prog/noexcuses.jpeg)
 
 
 ## Broken Windows
 
 What is a broken window you ask? It is the idea of something that causes a problem in your code, either now or it will cause a problem down the line.  I have done this way too many times, where I am developing code with a broken window and instead of fixing it I develop on top of it.  I can guarantee you that this is the wrong way to go and will cause you plenty of problems in the future.
+
+![BrokenWindows](/assets/ch1-prag-prog/brokenwindows.jpeg)
+
 
  
 ## Look for Change and the Bigger Picture
