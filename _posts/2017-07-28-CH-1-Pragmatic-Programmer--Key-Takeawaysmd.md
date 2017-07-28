@@ -36,7 +36,7 @@ When developing an application, it will never be perfect.  There are always enha
 
 ## Invest in Learning
 
-This one is HUGE. The one thing that someone can not take from you is the skills that you have developed over the years of work you have put in.  In order to make yourself more valuable and become a better programmer you must always be eager to learn and contining to grow.  You want learn things regularly and have a diverse set of skills by trying plenty of technologies.  You want to minimize risk by learning some languages that are mainstream, but at the same time learn some new hot tech trends.  
+This one is HUGE. The one thing that someone can not take from you is the skills that you have developed over the years of work you have put in.  In order to make yourself more valuable and become a better programmer you must always be eager to learn and continuing to grow.  You want learn things regularly and have a diverse set of skills by trying plenty of technologies.  You want to minimize risk by learning some languages that are mainstream, but at the same time learn some new hot tech trends.  
 
 ## Communication 
 
