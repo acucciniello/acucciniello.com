@@ -58,9 +58,9 @@ Now head on over to API.AI.  We are going to create three intents for this examp
 
 ### Welcome Intent
 
-This intent is made just to have a prompt when the action is launched.  You need to set the action name to `input.welcome`.  The action name allows you to map it to a specific function in your code.  Set two output contexts for the scenario.  This tells API.AI what intents to look out for as a followup to the current intent you are in.  Here is a screenshot of what it should look like.
+This intent is made just to have a prompt when the action is launched.  You need to set the action name to `input.welcome`.  The action name allows you to map it to a specific function in your code.  Set two output contexts for the scenario.  This tells API.AI what intents to look out for as a follow-up to the current intent you are in.  Here is a screenshot of what it should look like.
 
-![WelcomeIntent](/assets/apiapi-intent-switch/WelcomeIntent.png)
+![WelcomeIntent](/assets/apiai-intent-switch/WelcomeIntent.png)
 
 ### Test + Time Intent
 
