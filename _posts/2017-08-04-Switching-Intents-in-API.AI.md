@@ -66,9 +66,9 @@ This intent is made just to have a prompt when the action is launched.  You need
 
 Our next intent will be the test intent.  It is same as the time intent just replace 'time' and 'test'.  These will both have input contexts, that allow it to get called when a function has an output context that matches the input context.  This is what allows API.AI to know what is to be called.  Set the actions to be time and tests respectively.
 
-![TestIntent](/assets/apiapi-intent-switch/testIntent.png)
+![TestIntent](/assets/apiai-intent-switch/testIntent.png)
 
-![TimeIntent](/assets/apiapi-intent-switch/timeIntent.png)
+![TimeIntent](/assets/apiai-intent-switch/timeIntent.png)
 
  
 ## Conclusion
