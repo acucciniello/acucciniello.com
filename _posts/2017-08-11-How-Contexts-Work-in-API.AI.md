@@ -7,7 +7,7 @@ date:   2017-08-11 12:20:10
 
 ## Introduction
 
-If you read my last post API.AI has a more in-depth conversational flow then normal Alexa Intents and Utterances have.  API.AI introduced the idea of *contexts* in conversations.  It allows API.AI to know what the user is saying and in what context.  So today I am going to explain how this works!
+If you read my last post API.AI has a more in-depth conversational flow, then normal Alexa Intents and Utterances have.  API.AI introduced the idea of *contexts* in conversations.  It allows API.AI to know what the user is saying and in what context.  So today I am going to explain how this works!
 
 ## API.AI
 
@@ -19,11 +19,11 @@ You have the option of adding an input context(s) or an output context(s) to an 
 
 ### Output Context
 
-This is added on the second line in the context section.  When an output context is added to an intent it gets a lifespan.  The lifespan of the output context determines *how long* the context will last in terms of intents.  So an output context with a lifespan of 2 will be a context for the next two intents.  The output context is used to determine what are the possible follow-up intents to the current intent that was called. It determines this by matching a follow-up intent's input context with this intents output context.
+This is added on the second line in the context section.  When an output context is added to an intent it gets a lifespan.  The lifespan of the output context determines *how long* the context will last in terms of intents.  So an output context with a lifespan of 2 will be a context for the next two intents.  The output context is used to determine what are the possible follow-up intents to the current intent that was called. It determines this by matching a follow-up intent's input context with this intent's output context.
 
 ### Input Context
 
-This is added to the first line of the context section in intents.  If you state that an intent has an input context then it can only be invoked when the output context of the current intent has the same context.  When the user responds to the previous intent with a *User Says* that matches what the intent has, and a matching input context with output context. 
+This is added to the first line of the context section in intents.  If you state that an intent has an input context, then it can only be invoked when the output context of the current intent has the same context.  When the user responds to the previous intent with a *User Says* that matches what the intent has, and a matching input context with output context. 
 
 ## Code
 
