@@ -18,7 +18,7 @@ if (app.isPermissionGranted()) {
 	// continue with application processing with  location
 } else {
    // ask for permissions
-	app.askForPermission(context, permission dialogState)
+   app.askForPermission(context, permission dialogState)
 }
 ```
 
@@ -26,7 +26,7 @@ The documentation for `askForPermission()` is [here][askForPerm] and for `isPerm
 
 ## During the Request 
 
-When the code executes `app.askForPermission()` it automatically prompts the user to say: 'Can I access your location?'.  The user should respond with yes if they would like to continue using your action.  
+When the code executes `app.askForPermission()` it automatically prompts the Assistant to say: 'Can I access your location?'.  The user should respond with yes if they would like to continue using your action.  
 
 
 ## After the Request
