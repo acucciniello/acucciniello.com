@@ -7,7 +7,7 @@ date:   2017-08-25 12:20:10
 
 ## Introduction
 
-Have you ever wanted to build an Amazon Alexa Skill that uses your device's address or location? If so you are in the right place.  Amazon recently came out with the Device Address API that allows you to get the device's postal code.  Today I will show you how to have a skill that uses the device address API.
+Have you ever wanted to build an Amazon Alexa Skill that uses your device's address or location? If so you are in the right place.  Amazon recently came out with the Device Address API that allows you to get the device's postal code or address information.  Today I will show you how to have a skill that uses the device address API.
 
 ## Developer Portal
 
@@ -45,7 +45,7 @@ this.emit(':tellWithPermissionCard', askForPermissions, PERMISSIONS)
 Once we have a valid `deviceId` and `consentToken`, we must hit the device address api endpoint.  It takes the following form:
 
 ```
-https://api.amazonalexa.com/v1/devices/*{deviceId}*/settings/address
+https://api.amazonalexa.com/v1/devices/{deviceId}/settings/address
 ```
 
 Here you would insert the deviceId that you retrieved from your intent request.  Next, you would send a GET Request to the url with the authorization header of `Bearer + consentToken`.  Like the following:
