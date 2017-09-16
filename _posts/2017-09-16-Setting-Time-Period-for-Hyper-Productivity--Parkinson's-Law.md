@@ -13,7 +13,7 @@ I have been implementing this in my life and I want to explain how I have been b
 
 ## List Tasks Out Clearly
 
-![toDoList](/assets/parkinsons/toDoList.gif)
+![toDoList](/assets/parkinsons/tooDoList.gif)
 
 The first step here is planning.  If you have not read my blog post on planning out your time and goals, please check it out [here][goalsBP]
 
