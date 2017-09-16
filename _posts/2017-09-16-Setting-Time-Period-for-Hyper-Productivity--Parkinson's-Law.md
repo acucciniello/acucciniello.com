@@ -13,7 +13,7 @@ I have been implementing this in my life and I want to explain how I have been b
 
 ## List Tasks Out Clearly
 
-[plug a gif of list making]
+![toDoList](/assets/parkinsons/toDoList.gif)
 
 The first step here is planning.  If you have not read my blog post on planning out your time and goals, please check it out [here][goalsBP]
 
@@ -21,13 +21,20 @@ Without a plan, it will be hard to execute.  First thing to do here is to **defi
 
 ## Estimate Work Time
 
+![WorkTime](/assets/parkinsons/clock.gif)
+
+
 This is where Parkinson's Law comes in.  Create a time period you think you can get the work done in.  This can be used for a small task at hand, such as reading a 5 page chapter of a book, or even developing a 20 page website.  The key point here: **be aggressive with this time period, make it shorter than you think you can make it.** You want to make it short this way you stay focused and work hard while you are in that focus.
 
 ## Clear Out Distractions
 
+![Kanye](/assets/parkinsons/kanye.jpeg)
+
 How can you get work done without actually removing distractions from your life? This means place your phone in another room, turn off all notifications on your computer, and block Facebook, Twitter, Instagram or whatever else you can waste time these days.  Sit in a confortable position, have all of your items lain out that you need to get the task done.  The point of this step is **to remove all distractions in order for the ultimate focus during this time period.**
 
 ## Work, Work, Work!
+
+![WorkWorkWork](/assets/parkinsons/workworkwork.gif)
 
 Now that you have a time period that you can work in complete focus (because you have no distractions AND all the materials you need in front of you), its time for you just destroy your work.  Using this principle, I was able to write this blog post in about 10 minutes (After I had an outline of course...). That would normally take me about an hour to do.  Just like that I gained 50 minutes back into my life.
 
