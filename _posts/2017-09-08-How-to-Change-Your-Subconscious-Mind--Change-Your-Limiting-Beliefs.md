@@ -1,5 +1,9 @@
+---
+layout: post
+title:  "How to Change Your Subconscious Mind and Change Your Limiting Beliefs"date:   2017-09-08 12:20:10  
+---
 
----layout: posttitle:  "How to Change Your Subconscious Mind and Change Your Limiting Beliefs"date:   2017-09-08 12:20:10 ---## Introduction
+## Introduction 
 
 ![Subconscious](/assets/how-to-influence-sub/iceberg.jpg)One topic that has been extremely fascinating to me is the ability to influence your subconscious mind.  The theory is if you can change your subconscious mind then you can change your life and your limiting beliefs.  Changing these things can lead to live a more exciting and awesome life.  The life you have always dreamed of.I used to say affirmations over and over with very little long term success.  It would give me some short term motivation but never changed much in terms of my mindset over the long term.Today I will give you all that I have learned from influencing my subconscious mind.  These will be presented from the most effective to the least effective.## Facts About the Subconscious Before we dive into techniques, let's check out some general facts that are true of the subconscious mind.**It cannot tell the difference if something is real or imagined.** This is why you can have a dream and it feels so real.  You need your influential methods to feel real in order for your mind to think they are true
 
