@@ -6,16 +6,16 @@ date:   2017-09-16 14:38:20
 
 ## Introduction 
 
-Lately I have been playing around with a topic that I learned to increase a user's productivity.  The Law is called *Parkinson's Law*.  It basically states that *"work expands so as to fill the time available for its completion"*.  This means if you have 3 weeks to complete a project, then it will take you 3 weeks to finish.  What if we had only 1 week to do the same project, then it would get done in 1 week.
+Lately I have been playing around with a topic that I learned to increase a user's productivity.  The Law is called *Parkinson's Law*.  It basically states that *"work expands so as to fill the time available for its completion"*.  This means if you have 3 weeks to complete a project, then it will take you 3 weeks to finish.  What if we had only 1 week to do the same project? Then it would get done in 1 week.
 
-I have been implementing this in my life and I want to explain how I have been by giving you some tips.  I got this idea from Tim Ferris's [4 Hour Work Week][4HWW].  I think it would be a good idea to check that book out!
+I have been implementing this in my life and I want to explain how I have been by giving you some tips.  I got this idea from Tim Ferriss's [4 Hour Work Week][4HWW].  I think it would be a good idea to check that book out!
 
 
 ## List Tasks Out Clearly
 
 ![toDoList](/assets/parkinsons/tooDoList.gif)
 
-The first step here is planning.  If you have not read my blog post on planning out your time and goals, please check it out [here][goalsBP]
+The first step here is planning.  If you have not read my blog post on planning out your time and goals, please check it out [here][goalsBP].
 
 Without a plan, it will be hard to execute.  First thing to do here is to **define clearly what it is you must get done in the time period**.  This means to set a *quantifiable* goal that you know you must reach. My advice to you is to set the goal a little farther than you think you can get done.  You will be surprised what you can do. 
 
