@@ -21,7 +21,7 @@ Here are some reasons why you should keep on going!
 
 ### Plan
 
-So you got knocked down.  Now what? There is a reason you did not accomplish your goal.  It could have been becuase you haev have not found the right plan, or you have not been executing on the right plan.  The failure is trying to teach you something.  If you do exactly as someone else does to get to the goal, it should theoretically work for you right?  I wish it was that easy.  Sometimes some people need to work harder than others to get there.
+So you got knocked down.  Now what? There is a reason you did not accomplish your goal.  It could have been because you have have not found the right plan, or you have not been executing on the right plan.  The failure is trying to teach you something.  If you do exactly as someone else does to get to the goal, it should theoretically work for you right?  I wish it was that easy.  Sometimes some people need to work harder than others to get there.
 
 ### Learning
 
@@ -44,13 +44,13 @@ Plenty of times when I felt like giving up, I took a look back at WHY I started.
 
 ### Work Harder
 
-If there is something you are not doing yet, *do it*.  If there is something you are afraid of doing, *do it*.  If there is something you are unsure about just *do it* and learn from it.  If you are not doing something right, keep doing it until you learn how to do it right,  There is nothing that cannot be overcome with some hardwork and persistence.
+If there is something you are not doing yet, *do it*.  If there is something you are afraid of doing, *do it*.  If there is something you are unsure about just *do it* and learn from it.  If you are not doing something right, keep doing it until you learn how to do it right.  There is nothing that cannot be overcome with some hard work and persistence.
 
 ### Clear Your Head
 
 ![Positive](/assets/defeat/positive.gif)
 
-You want to remove all the negartive emotions from your head.  Plenty of times when failing, other negative thoughts can come along with it.  NEgatiev. thoughts attract other negative thoughts.  The best thing to do may be taking a quick break and doing something you enjoy to get your mind off the failure.  Then think about it again when you are in the happy mood.  Ask yourself, do you really want to be defeated by this? Do you want to get over this and achieve your goal? I think the answer will be pretty clear at that point.
+You want to remove all the negative emotions from your head.  Plenty of times when failing, other negative thoughts can come along with it.  Negative thoughts attract other negative thoughts.  The best thing to do may be taking a quick break and doing something you enjoy to get your mind off the failure.  Then think about it again when you are in the happy mood.  Ask yourself, do you really want to be defeated by this? Do you want to get over this and achieve your goal? I think the answer will be pretty clear at that point.
 
 ## Conclusion
 
