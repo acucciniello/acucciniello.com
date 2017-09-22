@@ -48,7 +48,7 @@ If there is something you are not doing yet, *do it*.  If there is something you
 
 ### Clear Your Head
 
-![Positive](/assets/defeat/positive.gif)
+![Positive](/assets/defeat/postive.gif)
 
 You want to remove all the negative emotions from your head.  Plenty of times when failing, other negative thoughts can come along with it.  Negative thoughts attract other negative thoughts.  The best thing to do may be taking a quick break and doing something you enjoy to get your mind off the failure.  Then think about it again when you are in the happy mood.  Ask yourself, do you really want to be defeated by this? Do you want to get over this and achieve your goal? I think the answer will be pretty clear at that point.
 
