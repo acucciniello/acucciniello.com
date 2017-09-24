@@ -6,6 +6,8 @@ date:   2017-09-16 14:38:20
 
 ## Introduction 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UzwyyZnmuqM" frameborder="0" allowfullscreen></iframe>
+
 Lately I have been playing around with a topic that I learned to increase a user's productivity.  The Law is called *Parkinson's Law*.  It basically states that *"work expands so as to fill the time available for its completion"*.  This means if you have 3 weeks to complete a project, then it will take you 3 weeks to finish.  What if we had only 1 week to do the same project? Then it would get done in 1 week.
 
 I have been implementing this in my life and I want to explain how I have been by giving you some tips.  I got this idea from Tim Ferriss's [4 Hour Work Week][4HWW].  I think it would be a good idea to check that book out!

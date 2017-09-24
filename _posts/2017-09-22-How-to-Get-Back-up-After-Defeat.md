@@ -6,6 +6,8 @@ date:   2017-09-22 14:38:20
 
 ## Introduction 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QLYg3AiXtXw" frameborder="0" allowfullscreen></iframe>
+
 Have you ever felt so defeated that you felt like you could not get back up and you wanted to quit? 
 
 ![Defeated](/assets/defeat/defeat.gif)
