@@ -6,7 +6,7 @@ date:   2017-09-29 14:38:20
 
 ## Introduction 
 
-![Ryan](assests/thoughts/noted-ryan-the-office.gif)
+![Ryan](assets/thoughts/noted-ryan-the-office.gif)
 
 So you may have heard of journaling or keeping a diary.  You were probably thinking: *"Wow, why would I do that, that sounds pretty lame. I definitely don't need to do this."*. **BEFORE YOU EXIT THIS PAGE**: Hear me out, as it is a daily activity that has a multitude of benefits that I am sure you would like to take advantage of.  
 
@@ -35,7 +35,7 @@ Unfortunately we tend to revert back to our old habits from time to time.  When 
 
 ### Helps With Processing Emotions
 
-![Feelings](assests/thoughts/feelings.jpeg)
+![Feelings](assets/thoughts/feelings.jpeg)
 
 Have you ever had your emotions get the best of you? Plenty of times when are taken over with emotions, the problem lies all in our head and we cannot think clearly.  Writing out exactly how you feel in the moment, not only calms you down, but will also get you looking at your emotions from a third party's perspective.  The third parties perspective allows you to analyze it logically and give you a good step to handling the emotion and ultimately the situation.
 
