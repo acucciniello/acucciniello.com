@@ -6,11 +6,15 @@ date:   2017-10-06 14:38:20
 
 ## Introduction 
 
+
 Have you ever heard of how you can say something over and over and it will come to fruition? Most of you think this is a load of BS.  It is only partially true, because nothing will ultimately happen without action.  
 
 Have you had it so hard for you to act that you could not get into action to start towards your goal?  Today I will describe how you can get closer towards your goal by working on your beliefs.
 
 ## Thoughts
+
+![ProfessorSnape](/assets/belief-reality/professorSnape.jpeg)
+
 
 Before each time we take an action, there is a thought that behind it.  That thought that comes before the action, it decided for you that you were going to do this action.   If your thought told you start a business, you may or may not start a business.  But, if you never thought about starting a business you would have never started one.  
 
@@ -19,6 +23,9 @@ In summary, the thought is always a prerequisite to the action.  In order for an
 Thoughts are also the only things we can truly control.  Plenty of times we let random thoughts come our way.  We need to ultimately determine what we are thinking about at any point in time.  How do we control our automatic thoughts or at least influence them?
 
 ## Beliefs
+
+![Believe](/assets/belief-reality/believe.jpeg)
+
 
 Let's take it back a step, where do our thoughts come from?  **They originate from our beliefs.**. Here is the sad truth of the matter:  Usually our beliefs are shaped when we are children from parents, relatives, friends, and emotional experiences.  Most people walk around with these beliefs and do not even know that they are shaped from someone else or how they can change them.
 
