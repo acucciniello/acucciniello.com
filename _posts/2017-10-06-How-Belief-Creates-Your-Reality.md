@@ -13,7 +13,7 @@ Have you had it so hard for you to act that you could not get into action to sta
 
 ## Thoughts
 
-![ProfessorSnape](/assets/belief-reality/professorSnape.jpeg)
+![ProfessorSnape](/assets/beliefs-reality/professorSnape.jpeg)
 
 
 Before each time we take an action, there is a thought that behind it.  That thought that comes before the action, it decided for you that you were going to do this action.   If your thought told you start a business, you may or may not start a business.  But, if you never thought about starting a business you would have never started one.  
@@ -24,7 +24,7 @@ Thoughts are also the only things we can truly control.  Plenty of times we let 
 
 ## Beliefs
 
-![Believe](/assets/belief-reality/believe.jpeg)
+![Believe](/assets/beliefs-reality/believe.jpeg)
 
 
 Let's take it back a step, where do our thoughts come from?  **They originate from our beliefs.**. Here is the sad truth of the matter:  Usually our beliefs are shaped when we are children from parents, relatives, friends, and emotional experiences.  Most people walk around with these beliefs and do not even know that they are shaped from someone else or how they can change them.
