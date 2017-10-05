@@ -12,7 +12,7 @@ Have you had it so hard for you to act that you could not get into action to sta
 
 ## Thoughts
 
-Before each time we take an action, there is a thought that behind it.  That thought that comes before an action, decided for you that you were gonna do this action.   If your thought told you start a business, you may or may not start a business.  But, if you never thought about starting a business you would have never started one.  
+Before each time we take an action, there is a thought that behind it.  That thought that comes before an action, decided for you that you were going to do this action.   If your thought told you start a business, you may or may not start a business.  But, if you never thought about starting a business you would have never started one.  
 
 In summary, the thought is always a prerequisite to the action.  In order for any action to take place *you* must think it first, then the action comes.  This may happen extremely fast in certain cases where it seems instantaneous.  
 
@@ -20,17 +20,17 @@ Thoughts are also the only things we can truly control.  Plenty of times we let 
 
 ## Beliefs
 
-Let's take it back a step, where do our thoughts come from?  **They originate from our beleifs.**. Here is the sad truth of the matter:  Usually our beliefs are shaped when we are children from parents, relatives, friends, and emotional expereiences.  Most people walk around with these beliefs and do not even know that they are shaped from someone else or how they can change them.
+Let's take it back a step, where do our thoughts come from?  **They originate from our beliefs.**. Here is the sad truth of the matter:  Usually our beliefs are shaped when we are children from parents, relatives, friends, and emotional experiences.  Most people walk around with these beliefs and do not even know that they are shaped from someone else or how they can change them.
 
-This frustrates me more than anything.  **Everyone has the power to change their beleifs just like you created them.**. So the first step here is the change the beliefs to make sure that they are generating thoughts that help us.  
+This frustrates me more than anything.  **Everyone has the power to change their beliefs just like you created them.**. So the first step here is the change the beliefs to make sure that they are generating thoughts that help us.  
 
 ## What Happens When Beliefs Change
 
-When your beliefs changem, your mind will focus its thoughts on what it believes. So, for instance you believe that you will become a billionaire, yur mind will focus on becoming a buillionaire.  
+When your beliefs change, your mind will focus its thoughts on what it believes. So, for instance you believe that you will become a billionaire, your mind will focus on becoming a billionaire.  
 
 Now, the next step is how that belief will affect your thoughts.  All of your thoughts will start noticing opportunities to become a billionaire or things that will take your close to that goal.
 
-The next step? Changing the action.  If most of your thoughts are revolving around becoming a billionarie and you truly beleve you were destined to be one, it is so hard to NOT act in a way that will make you a billionaire.  You will end up finding a way to become one, simply because your beleif is so strong.
+The next step? Changing the action.  If most of your thoughts are revolving around becoming a billionaire and you truly believe you were destined to be one, it is so hard to NOT act in a way that will make you a billionaire.  You will end up finding a way to become one, simply because your belief is so strong.
 
 That is the secret, your beliefs shape your thoughts, your thoughts change your actions, and your actions change your reality. 
 
