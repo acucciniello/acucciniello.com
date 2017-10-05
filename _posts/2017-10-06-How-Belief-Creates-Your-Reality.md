@@ -12,7 +12,7 @@ Have you had it so hard for you to act that you could not get into action to sta
 
 ## Thoughts
 
-Before each time we take an action, there is a thought that behind it.  That thought that comes before an action, decided for you that you were going to do this action.   If your thought told you start a business, you may or may not start a business.  But, if you never thought about starting a business you would have never started one.  
+Before each time we take an action, there is a thought that behind it.  That thought that comes before the action, it decided for you that you were going to do this action.   If your thought told you start a business, you may or may not start a business.  But, if you never thought about starting a business you would have never started one.  
 
 In summary, the thought is always a prerequisite to the action.  In order for any action to take place *you* must think it first, then the action comes.  This may happen extremely fast in certain cases where it seems instantaneous.  
 
