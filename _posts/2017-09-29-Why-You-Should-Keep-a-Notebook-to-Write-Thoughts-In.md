@@ -6,6 +6,8 @@ date:   2017-09-29 14:38:20
 
 ## Introduction 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vhbciGWIO3o" frameborder="0" allowfullscreen></iframe>
+
 ![Ryan](/assets/thoughts/noted-ryan-the-office.gif)
 
 So you may have heard of journaling or keeping a diary.  You were probably thinking: *"Wow, why would I do that, that sounds pretty lame. I definitely don't need to do this."*. **BEFORE YOU EXIT THIS PAGE**: Hear me out, as it is a daily activity that has a multitude of benefits that I am sure you would like to take advantage of.  
