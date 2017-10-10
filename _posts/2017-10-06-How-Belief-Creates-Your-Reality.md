@@ -6,6 +6,7 @@ date:   2017-10-06 14:38:20
 
 ## Introduction 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/02VzI6jBjyQ" frameborder="0" allowfullscreen></iframe>
 
 Have you ever heard of how you can say something over and over and it will come to fruition? Most of you think this is a load of BS.  It is only partially true, because nothing will ultimately happen without action.  
 
