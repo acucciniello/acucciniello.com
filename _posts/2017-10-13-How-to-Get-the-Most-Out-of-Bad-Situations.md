@@ -12,9 +12,11 @@ Have you ever felt like sometimes you have bad luck? Maybe bad things happen to 
 
 Today I am going to show you how to look at a negative situation and be very happy that it happened to you, simply because of what you got out of it. As Napoleon Hill said: *"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."*
 
+![MakesMistakes](/assets/make-most-from-defeat/everybodyMistakes.jpeg)
+
 ## Remove Emotions
 
-![ProfessorSnape](/assets/beliefs-reality/professorSnape.jpeg)
+![RemoveEmotions](/assets/make-most-from-defeat/controlEmotions.gif)
 
 
 The first step that you must take in this process when something bad happens to you is to remove your emotions from the situation.  When your emotions are in the way, you will not think 100% logically, which is what you will need to get there. 
@@ -23,7 +25,7 @@ Wait for things to cool down, watch a funny video, go have some fun with friends
 
 ## Write Out the Situation
 
-![Believe](/assets/beliefs-reality/believe.jpeg)
+![Believe](/assets/make-most-from-defeat/believe.jpeg)
 
 Now that you have removed the emotions, go back in and attempt to recall the situation in every detail to the best of your ability.  Write this all out.  As you are writing you will be able to notice things you may have done simply with you writing it, because you will be seeing it with a 3rd party perspective.  
 
@@ -39,6 +41,8 @@ Once you noticed the things you might have done, take a learning moment that you
 
 ## Conclusion
 
-Thank you for reading! That is how you get the most out of bad situations, you first need to cool down, write about the situation, analyze it, and learn from it.  When you learn from it, you reduce the chances of it happening again.
+Thank you for reading! That is how you get the most out of bad situations, you first need to cool down, write about the situation, analyze it, and learn from it.  When you learn from it, you reduce the chances of it happening again.  I hope you never feel like this again:
+
+![BadThings](/assets/make-most-from-defeat/badThings.gif)
 
 If you want more high value content like this definitely sign up on my mailing list and you will be notified of when I create content and suggest content from other influencers as well! Feel free to reach out with any tips or tricks you may have as well.Reach out and follow me on [Twitter][twit]!  Check out my [GitHub][github] for my open source projects! Take a look at my [YouTube Channel][yt] where there are hundreds of videos on life tips.[github]: https://github.com/acucciniello[twit]: https://twitter.com/antocucciniello[yt]: https://www.youtube.com/channel/UC8icMMql5SjCaXXMvILGIUA
