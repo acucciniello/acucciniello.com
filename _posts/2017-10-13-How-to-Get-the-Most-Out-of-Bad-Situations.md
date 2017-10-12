@@ -6,7 +6,6 @@ date:   2017-10-13 14:38:20
 
 ## Introduction 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/02VzI6jBjyQ" frameborder="0" allowfullscreen></iframe>
 
 Have you ever felt like sometimes you have bad luck? Maybe bad things happen to you often.  Here is what I came to realize, that if bad things are happening to you, most of the time it is at least partially your fault.  Something you did led to that situation happening and you must find a way to prevent that bad situation again.  
 
@@ -24,8 +23,6 @@ The first step that you must take in this process when something bad happens to 
 Wait for things to cool down, watch a funny video, go have some fun with friends, do whatever you need to get your mind off the emotional problem and then come back here for the second step.
 
 ## Write Out the Situation
-
-![Believe](/assets/make-most-from-defeat/believe.jpeg)
 
 Now that you have removed the emotions, go back in and attempt to recall the situation in every detail to the best of your ability.  Write this all out.  As you are writing you will be able to notice things you may have done simply with you writing it, because you will be seeing it with a 3rd party perspective.  
 
