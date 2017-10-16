@@ -6,6 +6,8 @@ date:   2017-10-13 14:38:20
 
 ## Introduction 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mVj1nJvWO2Y" frameborder="0" allowfullscreen></iframe>
+
 
 Have you ever felt like sometimes you have bad luck? Maybe bad things happen to you often.  Here is what I came to realize, that if bad things are happening to you, most of the time it is at least partially your fault.  Something you did led to that situation happening and you must find a way to prevent that bad situation again.  
 
