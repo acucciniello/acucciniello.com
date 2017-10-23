@@ -17,6 +17,9 @@ Today, I will give you some physical challenges that you can do that would incre
 
 ## Cold Showers
 
+![ColdShowers](/assets/mental-toughness/coldshower.jpeg)
+
+
 If you are like most people (I actually hope you are not if you are reading this post), as soon as you get into the bathroom for a shower, you turn the knob to closer to the H sign and wait for it to heat up.  God forbid you get in when it is cold.
 
 Taking cold showers has numerous benefits for your health, but you can be extremely painful to take. Almost always I do at least a little scream when I take one.  
@@ -28,6 +31,9 @@ HOW TO DO: Start off slowly, do one minute, and turn your knob a little to the l
 
 ## Fasting
 
+![Fasting](/assets/mental-toughness/hungry.jpg)
+
+
 Another physical challenge that is very tough for most people in today's world is fasting.  People are told that eating every 2-3 hours is crucial, and with so many ways to get food (especially bad food), you can always be getting food these days.
 
 Fasting is actually extremely good for you.  Not eating for a long time, especially when friends and family are eating delicious foods around you, can be extremely challenging.  Constantly saying no to the food and drink that come your way will greatly increase your will power over the long run.  
@@ -36,6 +42,9 @@ HOW TO DO: Start off with not eating or drinking anything that contains calories
 
  
 ## High Intensity Physical Exercise 
+
+![Lifting](/assets/mental-toughness/lifting.jpg)
+
 
 The last thing we will use to gain some willpower is high intensity physical exercise.  I am not talking about just any weight lifting workout or going for a jog.  I am talking about doing sprints that leave you gasping for air or squatting weight that makes you scream and focus so intensely to get the set done. 
 
