@@ -6,7 +6,7 @@ date:   2017-10-20 14:38:20
 
 ## Introduction 
 
-A Hot Topic today is how can you increase your willpower.  Most people thing they are lacking willpower and that is the reason why they are not achieving their goals.  
+A hot topic today is how can you increase your willpower.  Most people thing they are lacking willpower and that is the reason why they are not achieving their goals.  
 
 The truth is, with added willpower or stronger willpower you could easily increase your ability to say no to things that are preventing you from achieving your goals and say yes to things that will bring you closer even when the choice is hard.  
 
@@ -26,7 +26,7 @@ Taking cold showers has numerous benefits for your health, but you can be extrem
 
 It causes me to be so uncomfortable in a situation that you are usually supposed to be extremely comfortable in.  The ability to stay in this zone of no comfort and in the ice cold shower, as your body is freezing you will increase your willpower with each passing second.
 
-HOW TO DO: Start off slowly, do one minute, and turn your knob a little to the left.  Each day add 5 seconds, and turn it slightly more to the left(Or which ever direction is cold).  Work Your Way up until the shower is at its coldest and you are doing it for at least 5 minutes.  
+HOW TO DO: Start off slowly, do one minute, and turn your knob a little to the left.  Each day add 5 seconds, and turn it slightly more to the left(or which ever direction is cold).  Work Your Way up until the shower is at its coldest and you are doing it for at least 5 minutes.  
 
 
 ## Fasting
