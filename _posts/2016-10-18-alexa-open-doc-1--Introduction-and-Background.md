@@ -12,7 +12,7 @@ For the past year and a half, I have been playing around with Node.js and create
 
 ## Inspiration
 
-Have you ever had a great idea come to you when you were doing a monotonous task like washing dishes or showering? Have you ever wanted to write that idea down and this way you can make millions of dollars off that idea but your hands were tied in the that monotonous task? That is where alexa-open-doc comes in.  
+Have you ever had a  great idea come to you when you were doing a monotonous task like washing dishes or showering? Have you ever wanted to write that idea down and this way you can make millions of dollars off that idea but your hands were tied in the that monotonous task? That is where alexa-open-doc comes in.  
 
 
 ## Progress Thus Far
